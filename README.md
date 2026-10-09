@@ -126,3 +126,7 @@ GitHubで **base: develop / compare: 自分のfeature** のPRを作り、他の1
 - Flyway検証エラー: 適用済みSQLの変更や番号の重複を確認
 
 認証・アクセス制御は未実装です。開発用APIを実データ入りの共有環境へ公開する前に実装します。
+
+## チームのGitHub作業手順
+
+[メンバー用GitHub作業テンプレート](docs/github-guide.md)に、作業開始・保存・PR・レビュー・取り込みの手順と記入例をまとめています。
